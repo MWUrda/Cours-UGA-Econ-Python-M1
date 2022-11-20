@@ -1,4 +1,4 @@
-# Cours-UGA-Econ-Python
+# Cours-UGA-Econ-Python-M1
  
 Matériel pour le cours d'introduction à Python en écononomie à l'UGA.
 
